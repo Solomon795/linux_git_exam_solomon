@@ -5,3 +5,4 @@ from calc_divide import divide
 
 def main():
     print('Welcome to the Python Calculator\!')
+from calc_power import power
